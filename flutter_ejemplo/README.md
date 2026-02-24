@@ -1,9 +1,14 @@
-# flutter_ejemplo
+# Plantillas Flutter - Tarea
 
-Tarea #1 de la materia de multimedia para móviles.
+Este repositorio contiene dos proyectos Flutter:
 
-## Getting Started
+## 1. Application Project
+Proyecto creado usando la plantilla Application de Flutter.
 
-Axl David Umaña Guasca
+## 2. Empty Project
+Proyecto creado usando la plantilla Empty (proyecto vacío).
 
-Profe pongame 5.0 pls.
+Ambos proyectos fueron compilados en modo release y probados en un dispositivo Android real.
+
+Autor: Axl
+Fecha: 2026
